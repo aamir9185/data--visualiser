@@ -11,14 +11,10 @@ This is a React-based data visualization dashboard that presents user analytics 
 
 
 Here are some previews of the dashboard:
-
-### 1️⃣ User Growth Chart
 ![User Growth](assets/image.png)
 
-### 2️⃣ User Activity Heatmap
 ![User Activity](assets/image2.png)
 
-### 3️⃣ User Demographics Chart
 ![User Demographics](assets/image3.png)
 
 ## 🛠️ Installation & Setup
